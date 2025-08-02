@@ -35,7 +35,7 @@ This project provides a backend API for a pharmacy management system, built usin
 
    ```bash
    git clone https://github.com/AbdelrhmanAymanFathi/Backend-Pharmacy-System.git
-   cd pharmacy-backend
+   cd Backend-Pharmacy-System
    ```
 2. **Install dependencies**
 
